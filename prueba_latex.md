@@ -3,4 +3,4 @@
 
 $$ x^2 + y^2 $$ 
 
-El valor $ x^2 $ . 
+El valor $x^2$ . 
