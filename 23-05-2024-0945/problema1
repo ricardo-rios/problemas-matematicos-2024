@@ -1,8 +1,8 @@
- El pequeño teorrma de ferman:
--El pequeño teorema de Fermant es uno de los teoremas clasicos de teoria de numeros 
+
+-El pequeño teorema de Fermant es uno de los teoremas clasicos de teoria de numeros
 relacionado con la divisvilidad , se formula de la siguiente manera :
-Si p es un munero primo, entonces , para cada numero natural a , con $a>0$ , $ap\equiv a(modp)$ que es lo mismo 
-que decir que. 
+Si p es un munero primo, entonces , para cada numero natural a , con $a>0$ , $ap\equiv a(modp)$ que es lo mismo
+que decir que.b
 si p es un numero primo , entonces , para cada numero natural a , con $a>0$ , coprimo con p.
 $$a^{p.-1}\equiv 1(modp)$$
 teoremas importantes
@@ -12,4 +12,6 @@ carnet2:hf19003
 nombre2:jose otilio  hermandez Fernandez
 carnet3:am19053
 nombre3:Jose salvador Alvarenga Mendez
+nombre4: sarai Abigail Posada Cornejo
+carnet4:AM16018
 
