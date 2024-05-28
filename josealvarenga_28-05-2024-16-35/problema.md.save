@@ -1,0 +1,10 @@
+Problema:
+Un granjero tiene un terreno rectangular que quiere dividir en parcelas cuadradas de igual tamaño. 
+El terreno tiene una lon Solución: Para encontrar el tamaño máximo posible del lado de cada parcela cuadrada,
+debemos hallar máximo común divisor (MCD) de Las dimensiones del terreno son 180 metros y 120 metos. 
+Utilizamos el algoritmo de Euclides para encontrar el MCD: 1.
+Dividimos 180 entre 120 y obtenemos un cociente de 1 y un residuo de 60. \[180 = 120 \cdot 1+ 60 V 
+Ahora tomamos 120 y lo dividimos entre 60. \[120 = 60 \cdot 2+0 
+El residuo es 0, así que el MCD es 60. 
+Por lo tanto, el tamaño máximo posible del lado de cada parcela cuadrada es 60 metros.
+ Integrantes: José Otilio Hernandez Fernandez- HF19003 Saraí Abigail Posada Cornejo-PC16018 Jose Salvador Alvarenga Mendez-AM19053 Brayan Edenilson Santos Hernandez-SH18025
