@@ -10,5 +10,5 @@ $a^{p-1}=1(mod p)$
 
 nombres:Brayan edenilson santos hernandez santos, carnet:sh18025
 nombre: jose salvador alvarenga  ,carnet:am19053
-nombre:jose otilio hernandez,carnet:hf19003
+nombre:jose otilio hernandez, carnet:hf19003
 nombre: Sarai Abigail Posada Cornejo, carnet:PC16018
